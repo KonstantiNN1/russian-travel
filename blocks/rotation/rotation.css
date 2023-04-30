@@ -1,8 +1,0 @@
-.rotation {
-    transition: opacity 2s linear;
-    cursor: pointer;
-}
-
-.rotation:hover {
-    opacity: 0.5;
-  }
