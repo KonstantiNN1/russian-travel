@@ -12,4 +12,4 @@
 * Медиазапросы
 * БЭМ-структура
 
-[Ссылка на проект в GitHub](https://github.com/Konstnatin001/russian-travel)
+[Ссылка на проект в GitHub](https://konstnatin001.github.io/russian-travel/)
